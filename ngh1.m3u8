@@ -1,1 +1,10 @@
-https://streaming.useetv.com/dass/15/nba/manifest_wuseetv.mpd?enc=cwmPskuWzWO7R1z5VjILxQ&exp=1606730479&encp=JuEhuWSfM66WdKqsXia7Mg&expp=1606740979&
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:9700
+#EXTINF:10.0,
+media_w594228398_b494100_sleng_9700.ts
+#EXTINF:10.0,
+media_w594228398_b494100_sleng_9701.ts
+#EXTINF:10.0,
+media_w594228398_b494100_sleng_9702.ts
