@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:7
+#EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXTINF:4.0,
@@ -17,3 +17,5 @@ https://nonton.site:8443/chelsea20/tme/95
 https://nonton.site:8443/chelsea21/tme/95
 #EXTINF:4.0,
 https://nonton.site:8443/chelsea22/tme/95
+#EXTINF:6.0,
+https://nonton.site:8443/chelsea21/tme/95
