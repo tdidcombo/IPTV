@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2250000,AVERAGE-BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://f4fdb66660a8.us-east-1.playback.live-video.net/api/video/v1/us-east-1.211125368262.channel.mdMZNMlA7a8C.m3u8
+https://pull.niues.live/live/stream-488346_lhd.m3u8?auth_key=1719412636-0-0-83633744dfe8d0f4a45cd1fa3beba00a
